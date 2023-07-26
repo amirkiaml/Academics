@@ -1,5 +1,5 @@
-# Academics
-This repository is dedicated to my academic life, mainly for the purpose of showcasing some of the major transferrable projects that I have acquired in over 12 years of living in academia, from undergraduate to PhD. Some of these skills are as follows: **analytical thinking**, **time management**, **project management**, **advanced quantitative and qualitative reasoning** and **research skills**. [My academic CV can be found here](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
+# Educational Background
+This repository is dedicated to my academic life, mainly for the purpose of telling my story and showcasing some of the major transferrable projects that I have acquired in over 12 years of living in academia, from undergraduate to PhD, plus my recent transition to data science. Some of these skills are as follows: **analytical thinking**, **time management**, **project management**, **advanced quantitative and qualitative reasoning** and **research skills**. [My academic CV can be found here](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
 
 
 ## Undergraduate
