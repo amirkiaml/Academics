@@ -19,7 +19,7 @@ Among these are the following topics, for each one or more course was taken:
 - Euclidean, Differential, Manifold and Algebraic Geometry
 - Logic, Set Theory, Model Theory, Category Theory
 
-My thesis was one an advanced topic in the crossovers of category theory and modal logics: coalgebraic logics. My thesis, titled *Logics for Coalgebras, and a Final Coalgebra Theorem (written in Persian)* can be found [here](http://amirkiani.ucalgaryblogs.ca/files/2020/10/Logics-For-Coalgebras-and-a-Final-Coalgebra-Theorem.pdf).
+My thesis was one an advanced topic in the crossovers of category theory and modal logics: coalgebraic logics. My thesis, titled *Logics for Coalgebras, and a Final Coalgebra Theorem* (written in Persian) can be found [here](http://amirkiani.ucalgaryblogs.ca/files/2020/10/Logics-For-Coalgebras-and-a-Final-Coalgebra-Theorem.pdf).
 
 Aside from perseverance and responsibility, some major skills that I acquired during my bachelor's program were advanced quantitative and logical reasoning as a result of engaging with various forms of mathematical concepts.
 
