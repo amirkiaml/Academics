@@ -28,7 +28,7 @@ My mathematics background has always nourished my life, in our outside of academ
 ## Master's Degree
 After years of exposure to various kinds of mathematical logic in my undergraduate years, I grew interested in the philosophical ideas behind math and logic. I decided to do my MA in Philosophy. I applied for the MA program in Philosophy at Tartu University in Estonia and was awarded several scholarships to pursue my dreams for a period of two years. 
 
-![image](https://github.com/amirkiaml/Academics/assets/109314151/6b4ad7ef-230c-4b08-bae9-3ff7b8148eeb)
+![image](https://www.pnas.org/cms/10.1073/pnas.1900357116/asset/160b7a72-ac79-4d4e-9b23-5e0de6b5b75f/assets/graphic/pnas.1900357116fig02.jpeg)
 
 
 The program was research-intensive, but some of the courses that I took:
