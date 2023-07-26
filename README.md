@@ -3,7 +3,7 @@ This repository is dedicated to my academic life, mainly for the purpose of show
 
 
 ## Undergraduate
-I did my undergraduate in Mathematics and Applications at Amirkabir University of Technology (Tehran Polytechnic). While my focus and final thesis was on mathematical logics, I had deep exposure to various pure and applied mathematics subjects, mostly in terms of coursework. 
+I did my undergraduate in **Mathematics and Applications** at *Amirkabir University of Technology (Tehran Polytechnic)* in Iran. While my focus and final thesis was on mathematical logics, I had deep exposure to various pure and applied mathematics subjects, mostly in terms of coursework. 
 
 ![Screenshot](math.jpg)
 
