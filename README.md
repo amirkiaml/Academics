@@ -59,6 +59,11 @@ Among others, the main skills that I obtained or improved upon during my MA stud
 
 After I successfully finished my MA program in Philosophy, I decided to continue exploring the frontiers of philosophical thinking by pursuing a PhD in the field. Throughout the 4 years of my studies at the University of Calgary, I had the opportunity to engage in cutting-edge research in Logic and Metaphysics. My research particularly focused on questions of fundamentality and how we can harness advanced mathematical and logical tools to address them. My dissertation can be found [here](https://prism.ucalgary.ca/items/5e063fbe-91e5-4932-88f8-16423030d5e3). For other papers and manuscripts, check out [here](https://profiles.ucalgary.ca/amirhossein-kiani).
 
+
+
+![image](https://miro.medium.com/v2/resize:fit:1400/0*9VnQde0OrO7gsCvC)
+
+
 During my PhD, I also had a chance to learn and teach a diverse range of material on philosophical and ethical questions associated with AI, IT and Data. This has now contributed to my better understanding of recent debates on AI safety and various ethical concern around the topic. I'm currently running a [Medium blog](https://philanddata.medium.com/) that is focused on these topics. I also sometimes write voluntary content on the subject for non-for-profit organizations such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/); see [here](https://centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta/?fbclid=IwAR2wYqHlgJ_4It3ZW0JL_zVe_qr7n4OmSqDXOQ5mUvbJ_jdI6eO-s5Ku6bk) as a sample.
 
 Some of the major skills that I have acquired and reinforced throughout my PhD are as follows, all at very advanced levels: 
