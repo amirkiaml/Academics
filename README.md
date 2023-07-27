@@ -61,12 +61,6 @@ After I successfully finished my MA program in Philosophy, I decided to continue
 
 During my PhD, I also had a chance to learn and teach a diverse range of material on philosophical and ethical questions associated with AI, IT and Data. This has now contributed to my better understanding of recent debates on AI safety and various ethical concern around the topic. I'm currently running a [Medium blog](https://philanddata.medium.com/) that is focused on these topics. I also sometimes write voluntary content on the subject for non-for-profit organizations such as the [Centre for Social Impact Technology](https://centreforsocialimpacttech.ca/); see [here](https://centreforsocialimpacttech.ca/2023/04/13/data-citizenship-at-large-and-in-alberta/?fbclid=IwAR2wYqHlgJ_4It3ZW0JL_zVe_qr7n4OmSqDXOQ5mUvbJ_jdI6eO-s5Ku6bk) as a sample.
 
-Most recently, I participated in a 24-hour hackathon hosted by **Google** and **BrainStation**, where we were asked to envision new ideas to educate users about AI-powered Google products while ensuring user trust and avoiding misunderstandings. Thanks to our amazing team, we were announced as the winner 🏆 of the contest.  Our initial focus was to understand the key reasons behind the general population's mistrust in the use of AI. Through extensive research, we identified three significant factors contributing to this mistrust: the lack of transparency, concerns about privacy invasion, and the difficulty in establishing ground truth for evaluating AI algorithm results in products. Addressing these concerns is pivotal in building trust and confidence in AI technologies. 
-
-As a result, we introduced "Insights," a powerful widget integrated into the Google platform. "Insights" leverages the recent breakthrough in large language models to provide users with a unique glimpse behind the curtain, offering clear explanations of how AI enhances their experience, utilizes their data, and delivers the results they receive. With "Insights," we aim to foster transparency and empower users to confidently embrace AI-related features. To learn more about "Insights," check out the project's [dedicated GitHub repository](https://github.com/amirkiaml/Google-Industry-Day).
-
-![image](https://github.com/amirkiaml/Google-Industry-Day/blob/main/Image.png)
-
 Some of the major skills that I have acquired and reinforced throughout my PhD are as follows, all at very advanced levels: 
 - **analytical thinking**,
 - **research**,
