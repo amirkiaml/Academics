@@ -83,9 +83,9 @@ This bootcamp has added much more to my Data Science toolkit, building on top of
 
 In my capstone project for the bootcamp -- titled *DeepChef* -- I harness the power of state-of-the-art large langue models and semantic embeddings to create a recommender system that takes in users' favorite recipes -- ingredients or instructions, along with themes or other elements -- and returns the 5-most similar recipes from a dataset of over 520,000 recipes scraped from [food.com](food.com). Another recommender system further enhances this by taking into account nutritional facts about recipes as well. 
 
-![image](https://www.verywellfit.com/thmb/T79yyiHzXS8gGHpiCVnL_S57iB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Illo_Recipes-1af3013797f044f9821446fd1cf06e1c.jpg)
+To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
 
-I'm currently at the final stages of this project, and hoping to be able to incorporate all the codes into a user-friendly app that people can use at their convenience. To follow the most recent updates on DeepChef, follow [this repository](https://github.com/amirkiaml/DeepChef-BSTN-Capstone).
+![image](https://www.verywellfit.com/thmb/T79yyiHzXS8gGHpiCVnL_S57iB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Illo_Recipes-1af3013797f044f9821446fd1cf06e1c.jpg)
 
 Among various soft skills that I've had the opportunity to exercise or learn in my data science journey, here are some technical skills that I have acquired:
 
