@@ -1,7 +1,7 @@
 # Educational Background
 This repository is dedicated to my educational background, mainly for the purpose of telling my story and showcasing some of the major skills that I have acquired in over 12 years of living in academia, from undergraduate to PhD, plus my recent transition to data science. Some of these skills are as follows: **analytical thinking**, **time management**, **project management**, **advanced quantitative and qualitative reasoning** and **research skills**. 
 
-[My Academic CV](https://drive.google.com/file/d/1MSI0puQrKD-aDo_05GOQU0TPn6XdXKWf/view?usp=sharing)
+[Academic CV](https://drive.google.com/file/d/1ITlkwcnUVF85qjkpPhkJ4s8CWt6H3TVl/view?usp=sharing)
 
 
 ## Undergraduate
