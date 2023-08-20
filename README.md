@@ -1,5 +1,5 @@
 # Educational Background
-This repository is dedicated to my academic background, mainly for the purpose of telling my story and showcasing some of the major skills that I have acquired in over 12 years of living in academia, from undergraduate to PhD, plus my recent transition to data science. In short, some of these skills are as follows: <br><br>
+This repository is dedicated to my academic background, mainly for the purpose of telling my story and showcasing some of the major skills that I have acquired in over 12 years of living in academia, from undergraduate to PhD, plus my recent transition to data science. In short, some of these skills are as follows:
     
 - `analytical thinking`
 -  `time management`
